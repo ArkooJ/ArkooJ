@@ -33,7 +33,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from Noida,India.
+I am an Techincal Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from Noida,India.
 - :telescope: I’m working as a Software Engineer and I contribute to my project as a Team Lead with focus on Automation of tasks
 
 - :seedling: Exploring Robotic  Process Automation and Machine Learning/ Artificial Interlligence using Python.
