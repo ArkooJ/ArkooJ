@@ -40,7 +40,7 @@ I am an Techincal Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I Explore GitHub Repos and watch Tech Videos on Youtube.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ArkoJoardar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkojoardar)
+- :mailbox:How to reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-ArkoJoardar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkojoardar)
 
 ---
 
