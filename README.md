@@ -40,7 +40,7 @@ I am an Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I Explore GitHub Repos, watch Tech Videos on Youtube.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkojoardar)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ArkoJoardar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkojoardar)
 
 
 
