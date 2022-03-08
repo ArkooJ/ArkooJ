@@ -6,13 +6,15 @@
   <a href="https://www.linkedin.com/in/arkojoardar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/arkojoardar/">
+  <a href="https://www.instagram.com/arkojoardar">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/arkoprovojoard1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<align="center"img src="https://komarev.com/ghpvc/?username=arkooj&style=flat-square&color=blue" alt=""/ >
 
 - 👋 Hi, I’m @Arkoprovo Joardar
 - 👀 I’m interested in SAP Automation AKA RPA and Python 
