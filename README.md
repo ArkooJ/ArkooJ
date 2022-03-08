@@ -33,13 +33,14 @@
 ---
 
 ### :man_technologist: About Me :
+I am an Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from Noida,India.
+- :telescope: I’m working as a Software Engineer and I contribute to my project as a Team Lead with focus on Automation of tasks
 
-- 👋 Hi, I’m @Arkoprovo Joardar
-- 👀 I’m interested in SAP Automation AKA RPA and Python 
-- 🌱 I’m currently learning ... BCA from SASTRA University
-- 📫 How to reach me :
-- 1) Instagram https://www.instagram.com/arkojoardar/
-- 2) LinkedIn https://www.linkedin.com/in/arkojoardar
+- :seedling: Exploring Robotic  Process Automation and Machine Learning/ Artificial Interlligence using Python.
+
+- :zap: In my free time, I Explore GitHub Repos, watch Tech Videos on Youtube.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkojoardar)
 
 
 
