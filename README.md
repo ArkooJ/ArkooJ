@@ -14,7 +14,7 @@
   </a>
 </div>
 
-< img src="https://komarev.com/ghpvc/?username=arkooj&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Arkooj&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m @Arkoprovo Joardar
 - 👀 I’m interested in SAP Automation AKA RPA and Python 
