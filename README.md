@@ -14,7 +14,9 @@
   </a>
 </div>
 
+<div id="profile_counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Arkooj&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 👋 Hi, I’m @Arkoprovo Joardar
 - 👀 I’m interested in SAP Automation AKA RPA and Python 
